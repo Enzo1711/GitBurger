@@ -3,7 +3,7 @@
 Construisez votre propre hamburger en utilisant des fichiers texte pour chaque couche.
 
 # *Ingrédients disponibles*
-- 0 🥯 Pain haut : Pain brioché avec des graines de sésame sur le dessus.
+- 1 🥯 Pain haut : Pain brioché avec des graines de sésame sur le dessus.
 
 - 2 🥬 Salade : Salade croquante et fraîche.
 
