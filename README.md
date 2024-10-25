@@ -11,9 +11,9 @@ Construisez votre propre hamburger en utilisant des fichiers texte pour chaque c
 
 - 7 🥩 Steak : Steak de bœuf grillé à la perfection.
 
-- 1 🧀 Fromage : Tranche de cheddar fondant.
+- 3 🧀 Fromage : Tranche de cheddar fondant.
 
 - 2 🥓 Bacon : Tranche de bacon croustillante.
 
-- 3 🍞 Pain bas : Pain brioché du dessous.
+- 1 🍞 Pain bas : Pain brioché du dessous.
 
